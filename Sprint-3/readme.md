@@ -23,7 +23,7 @@ Here is a recommended order:
 
 ## 🔧 2 Rewrite
 
-`console.log` is most often used as a debugging tool. We use to inspect the state of our program during runtime. 
+`console.log` is most often used as a debugging tool. We use to inspect the state of our program during runtime.
 
 We can use `console.assert` to write assertions: however, it is not very easy to use when writing large test suites. In the first section, Implement, we used a custom "helper function" to make our assertions more readable.
 
@@ -50,7 +50,7 @@ https://code.visualstudio.com/docs/editor/testing
 
 ## 3 Practice
 
-In this section you'll practice this key skill of building up your program test first. 
+In this section you'll practice this key skill of building up your program test first.
 
 Use the Jest syntax and complete the provided files, meeting the acceptance criteria for each function. Use the VSCode test runner to run your tests and check your progress.
 
@@ -69,5 +69,3 @@ In this exercise, you'll need to **play computer** with the function `find`. Thi
 Next, try implementing the functions specified in `password-validator.js`.
 
 Finally, set up your own script and test files for `card-validator.md`
-
-

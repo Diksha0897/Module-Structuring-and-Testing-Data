@@ -23,7 +23,6 @@ console.log(decimalNumber); */
 // Also, `decimalNumber` only exists inside the function.
 // When we try to console.log it outside, JavaScript can’t find it.
 
-
 // Finally, correct the code to fix the problem
 // =============> write your new code here
 function convertToPercentage(decimalNumber) {
