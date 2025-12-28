@@ -13,5 +13,5 @@ function getOrdinalNumber(num) {
     } else return num + "th";
   }
 }
-console.log(getOrdinalNumber(111));
+
 module.exports = getOrdinalNumber;
