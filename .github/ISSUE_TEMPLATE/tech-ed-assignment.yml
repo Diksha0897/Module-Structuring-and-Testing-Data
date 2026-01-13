@@ -21,7 +21,7 @@ body:
       label: Link to the coursework
     validations:
       required: true
-  - type : textarea
+  - type: textarea
     attributes:
       label: Learning Objectives
       description: https://common.codeyourfuture.io/common-theme/shortcodes/objectives/
